@@ -6,7 +6,7 @@ Dung beetles are beetles that feed partly or exclusively on dung. A dung beetle 
 Kingdom: Animalia
 Phylum: Arthropoda
 Class: Insecta
-Order: Coleoptera
+Class: Coleoptera
 Suborder: Polyphaga
 Superfamily: Scarabaeoidea
 Family: Scarabidae
